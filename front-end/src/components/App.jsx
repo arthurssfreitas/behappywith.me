@@ -1,10 +1,14 @@
 import React, { Component } from 'react';
 import Header from './Header';
+import NovoUsuario from './NovoUsuario';
 
 export class App extends Component {
   render() {
     return (
-      <h1>Component App</h1>
+      <div>
+      <Header />
+      <NovoUsuario />
+      </div>
     );
   }
 }
