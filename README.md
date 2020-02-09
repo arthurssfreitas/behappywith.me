@@ -6,9 +6,6 @@
 
 <div align="center">
 
-[![Behappywith.me](https://img.shields.io/badge/hackathon-name-orange.svg)](https://behappywith.me)
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-
 </div>
 
 ---
