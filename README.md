@@ -24,5 +24,4 @@ Este projeto tem o objetivo de agendar gentilezas.
 - [React.JS](https://pt-br.reactjs.org/) - Frontend Framework
 - [Babel](https://babeljs.io/) - Javascript Compilador
 - [webpack](https://webpack.js.org/) - Empacotador de módulos estáticos
-- [Express](https://expressjs.com/) - Server Framework
-- [NodeJs](https://nodejs.org/en/) - Servidor
+- [NodeJs](https://nodejs.org/en/) - Servidor Backend
