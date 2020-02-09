@@ -10,10 +10,6 @@
 
 ---
 
-<p align="center"> Descrição do projeto
-    <br> 
-</p>
-
 ## 📝 Índice
 
 - [Solução](#idea)
