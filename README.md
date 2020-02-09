@@ -2,8 +2,6 @@
   <a href="" rel="noopener">
  <img src="https://raw.githubusercontent.com/arthurssfreitas/behappywith.me/master/front-end/src/img/pwa-react.jpg" alt="Banner PWA"></a>
 </p>
-<h3 align="center">Behappywith.me</h3>
-
 <div align="center">
 
 </div>
